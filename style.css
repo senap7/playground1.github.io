@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     color: #333;
     margin: 0;
-    padding: 0;
+    padding: 0 0 80px; /* add space for fixed footer */
     background-color: #f0f0f0;
 }
 
